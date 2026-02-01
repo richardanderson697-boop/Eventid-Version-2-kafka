@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+/bin
+/pkg
+*.test
+*.out
+
+# Dependencies
+/vendor
+
+# IDEs
+.idea/
+.vscode/
+
+# Env files
+.env
+
+# Docker
+docker-compose.override.yml
+
+# OS junk files
+*.DS_Store
+Thumbs.db
